@@ -8,19 +8,20 @@ package gillis_exam_projects;
  *
  */
 public class Goodbye {
-
+ 
 	/**
 	 * 
 	 */
 	public Goodbye() {
-		// TODO Auto-generated constructor stub
+		int result = Integer.parseInt("forty-two");
+		
 	}
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("forty-two");
 
 	}
 
